@@ -10,7 +10,7 @@
 	</parent>
 	<artifactId>springside-core</artifactId>
 	<packaging>jar</packaging>
-	<name>Springside :: Module :: Core</name>
+	<name>Springside-Module-Core</name>
 
 	<dependencies>
 		<dependency>

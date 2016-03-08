@@ -4,7 +4,7 @@
 	<groupId>io.springside</groupId>
 	<artifactId>springside-project</artifactId>
 	<version>5.0.0-SNAPSHOT</version>
-	<name>Springside :: Project</name>
+	<name>Springside-Project</name>
 	<packaging>pom</packaging>
 
 	<description>SpringSide is a Spring Framework based JavaEE application reference architecture. </description>

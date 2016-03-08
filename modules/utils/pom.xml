@@ -10,7 +10,7 @@
 	</parent>
 	<artifactId>springside-utils</artifactId>
 	<packaging>jar</packaging>
-	<name>Springside :: Module :: Utils</name>
+	<name>Springside-Module-Utils</name>
 
 	<dependencies>
 		<!-- UTILS begin -->
